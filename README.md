@@ -9,7 +9,7 @@ Os dados foram obtidos diretamente da **API de Dados Abertos do Senado Federal**
 ## 🚀 Metodologia
 
 1. **Coleta de Dados**  
-   - Os dados foram baixados automaticamente da [API do Senado]([https://www12.senado.leg.br/dados-abertos](https://adm.senado.gov.br/adm-dadosabertos/swagger-ui/index.html?configUrl=/adm-dadosabertos/swagger-config.json#/)).
+   - Os dados foram baixados automaticamente da [API do Senado](https://www12.senado.leg.br/dados-abertos).
    - Todos os arquivos CSV de **2008 a 2024** foram carregados e unidos em um único conjunto de dados.
 
 2. **Limpeza e Tratamento**  
